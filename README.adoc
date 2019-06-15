@@ -1,0 +1,10 @@
+= CMake-Qt5-Qml-Example
+
+== Installation and Usage
+
+=== C++
+* Run "install-opencv-4.1.0-and-qt5-on-ubuntu-18.04.sh"
+
+=== X-Server
+* Because of the usage of Qt you need to add the environment variable `DISPLAY=127.0.0.1:0.0`
+* X11 server (e.g. X410) has to be running and set up (https://token2shell.com/x410/)
